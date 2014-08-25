@@ -1,4 +1,4 @@
-
+import java.util.*;
 
 public abstract class UniTimeBlock{
 
@@ -7,6 +7,10 @@ public abstract class UniTimeBlock{
 
 	public int DurationMinutes(){
 		return 5;
+	}
+
+	public void AddToGoogleCalander(){
+		return;
 	}
 
 }
