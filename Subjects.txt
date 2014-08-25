@@ -1,0 +1,4 @@
+COMP Computer Science
+ECON Economics
+SWEN Software Engerneering
+MGMT Management
